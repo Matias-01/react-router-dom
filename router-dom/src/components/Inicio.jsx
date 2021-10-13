@@ -1,9 +1,10 @@
 import React from 'react'
+import Grid from './Grid'
 
 const Inicio = () => {
     return (
         <div>
-            <h1>Inicio</h1>
+            <Grid />
         </div>
     )
 }

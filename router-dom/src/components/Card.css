@@ -1,0 +1,10 @@
+.Card {
+    list-style: none;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: bold;
+}
+.Image {
+ border-radius: 10px;
+ background-color: azure;
+}
