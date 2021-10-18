@@ -72,6 +72,10 @@ function App() {
             <Minimalista/>
           </Route>
         </Switch>
+        {/* ¿Donde iria este script para que detecte la url
+        <script>
+        if (window.location.href.indexOf("mystring")
+        </script> */}
     </div>
   </Router>
   </div>
